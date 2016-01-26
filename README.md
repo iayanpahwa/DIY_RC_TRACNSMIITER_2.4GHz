@@ -4,5 +4,5 @@ Author: Ayan Pahwa
 ===========================
 
 Transmitter and Receiver code for DIY rc plane remote.
-For circuit and working :
+For explanation, circuit and working :
 http://www.instructables.com/id/AtoZ-of-RC-hobbyDIY-radio-with-ARDUINO/
